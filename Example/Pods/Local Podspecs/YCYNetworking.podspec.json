@@ -1,0 +1,37 @@
+{
+  "name": "YCYNetworking",
+  "version": "0.1.1",
+  "summary": "YCYNetworking is a network",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/YCheck/YCYNetworking",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "YCheck": "864390553@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/YCheck/YCYNetworking.git",
+    "tag": "0.1.1"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "YCYNetworking/Classes/**/*",
+  "frameworks": [
+    "UIKit",
+    "Foundation"
+  ],
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "FMDB": [
+
+    ],
+    "MJExtension": [
+
+    ]
+  }
+}

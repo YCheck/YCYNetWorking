@@ -1,0 +1,6 @@
+framework module YCYNetworking {
+  umbrella header "YCYNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
