@@ -1,0 +1,6 @@
+use_frameworks!
+target 'YCYNetworking_Tests' do
+  pod 'YCYNetworking', :path => '../'
+  
+  
+end
